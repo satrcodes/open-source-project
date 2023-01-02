@@ -1,5 +1,8 @@
 # open-source-project
+for contributers names
 
-- what is the project about
-- important info.
-- resources
+## Contributers List:
+
+write your first and last name
+
+0. First_name Last_name
